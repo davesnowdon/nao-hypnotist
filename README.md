@@ -12,3 +12,5 @@ several things:
 * Using timeline layers to implement a state machine in Choreographe
 * Selecting an option using speech recognition
 * Face detection
+
+Video of the application in operation can be found here: http://www.davesnowdon.com/project/nao/updates/2012-02-nao-hypnotist
